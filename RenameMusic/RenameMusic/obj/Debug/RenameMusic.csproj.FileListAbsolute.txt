@@ -1,0 +1,8 @@
+D:\百度网盘\练习Demo\visualDemo\C#歌曲改名器\RenameYourMusic\RenameMusic\bin\Debug\RenameMusic.exe
+D:\百度网盘\练习Demo\visualDemo\C#歌曲改名器\RenameYourMusic\RenameMusic\bin\Debug\RenameMusic.pdb
+D:\百度网盘\练习Demo\visualDemo\C#歌曲改名器\RenameYourMusic\RenameMusic\obj\Debug\RenameMusic.csprojResolveAssemblyReference.cache
+D:\百度网盘\练习Demo\visualDemo\C#歌曲改名器\RenameYourMusic\RenameMusic\obj\Debug\RenameMusic.FactoryForm.resources
+D:\百度网盘\练习Demo\visualDemo\C#歌曲改名器\RenameYourMusic\RenameMusic\obj\Debug\RenameMusic.Properties.Resources.resources
+D:\百度网盘\练习Demo\visualDemo\C#歌曲改名器\RenameYourMusic\RenameMusic\obj\Debug\RenameMusic.csproj.GenerateResource.Cache
+D:\百度网盘\练习Demo\visualDemo\C#歌曲改名器\RenameYourMusic\RenameMusic\obj\Debug\RenameMusic.exe
+D:\百度网盘\练习Demo\visualDemo\C#歌曲改名器\RenameYourMusic\RenameMusic\obj\Debug\RenameMusic.pdb
